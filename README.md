@@ -38,5 +38,5 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request
 
