@@ -2,15 +2,41 @@
 
 A magic 8 ball that gives me an answer of any questions .
 
+## Screenshot
+
+<img src="screenshots/Screenshot_20240711_120217.png" alt="App Screenshot" width="300"/>
+
+## Profile
+
+Hello! I'm Kazi Abrar Shafin, a passionate app developer with experience in building cross-platform applications using Flutter. The "Magic 8 ball" project is designed to showcase my skills in UI design and development.
+
+## Contact
+
+- **Email**: [kazishafin09@gmail.com](mailto:kazishafin09@gmail.com)
+- **Phone**: [+8801637231961](tel:+8801637231961)
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/AbrarShafin/Magic_8_ball.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd mi_card
+    ```
+3. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+4. Run the app:
+    ```bash
+    flutter run
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
