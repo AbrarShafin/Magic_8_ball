@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd mi_card
+    cd Magic_8_ball
     ```
 3. Install dependencies:
     ```bash
