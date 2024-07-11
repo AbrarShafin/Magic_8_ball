@@ -9,7 +9,7 @@ void main() => runApp(
             centerTitle: true,
             title: const Text(
                 style: TextStyle(color: Colors.white), 'Ask me Anything :)'),
-            backgroundColor: Colors.blueGrey,
+            backgroundColor: Colors.teal,
             shadowColor: Colors.black,
             elevation: 5,
           ),
